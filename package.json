@@ -21,6 +21,8 @@
   "homepage": "https://github.com/niranjan-v2/vts-admin-portal#readme",
   "dependencies": {
     "express": "^5.2.1",
+    "mongodb": "^7.1.0",
+    "mongoose": "^9.2.3",
     "nodemon": "^3.1.14"
   }
 }
